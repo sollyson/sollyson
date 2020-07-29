@@ -1,16 +1,24 @@
-### Hi there 👋
+![Banner Solly](https://i.imgur.com/14JHQZj.png)
 
-<!--
-**Solly42/Solly42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<br style="margin-bottom: 25px;" align="center">
+        <a href="https://www.linkedin.com/in/sollyson-rodrigues/" target="_blank">
+          <img
+            src="https://i.imgur.com/lAl8BJU.png"
+            alt="linkedin logo"
+            width="40px"
+            style="margin-right: 15px;"
+          />
+        </a>
+        <a
+          href="https://api.whatsapp.com/send?phone=5511992599699"
+          target="_blank"
+        >
+          <img
+            src="https://i.imgur.com/RV5Lh02.png"
+            alt="Whatsapp Logo"
+            width="40px"
+            style="margin-right: 15px;"
+          />
+        </a>
+</p>
