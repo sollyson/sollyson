@@ -2,7 +2,8 @@
 
 <p align="center">
 <br style="margin-bottom: 25px;" align="center">
-        <a style = "text-decoration: none;" href="https://www.linkedin.com/in/sollyson-rodrigues/" target="_blank">
+        <a 
+           href="https://www.linkedin.com/in/sollyson-rodrigues/" target="_blank">
           <img
             src="https://i.imgur.com/lAl8BJU.png"
             alt="linkedin logo"
@@ -10,7 +11,7 @@
             style="margin-right: 15px;"
           />
         </a>
-        <a style = "text-decoration: none;"
+        <a
           href="https://api.whatsapp.com/send?phone=5511992599699"
           target="_blank"
         >
