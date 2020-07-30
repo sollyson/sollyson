@@ -10,7 +10,7 @@
             style="margin-right: 15px;"
           />
         </a>
-        <a
+        <a style = "text-decoration: none;"
           href="https://api.whatsapp.com/send?phone=5511992599699"
           target="_blank"
         >
