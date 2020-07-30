@@ -2,7 +2,7 @@
 
 <p align="center">
 <br style="margin-bottom: 25px;" align="center">
-        <a href="https://www.linkedin.com/in/sollyson-rodrigues/" target="_blank">
+        <a style = "text-decoration: none;" href="https://www.linkedin.com/in/sollyson-rodrigues/" target="_blank">
           <img
             src="https://i.imgur.com/lAl8BJU.png"
             alt="linkedin logo"
