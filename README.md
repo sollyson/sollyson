@@ -23,3 +23,4 @@
           />
         </a>
 </p>
+![Solly's github stats](https://github-readme-stats.vercel.app/api?username=Solly42&theme=dark&show_icons=true)
