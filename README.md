@@ -26,6 +26,6 @@
 
 <p align="center">
         <a href="https://github.com/https://github.com/Solly42">
-                <img src="https://github-readme-stats.vercel.app/api?username=solly42&theme=monokai&show_icons=true" />
+          <img src="https://github-readme-stats.vercel.app/api?username=solly42&theme=monokai&show_icons=true" />
 </a>
 </p>
