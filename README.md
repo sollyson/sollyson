@@ -23,4 +23,6 @@
           />
         </a>
 </p>
-[![Solly42's github stats](https://github-readme-stats.vercel.app/api?username=Solly42)](https://github.com/Solly42/github-readme-stats)
+
+
+![solly42's github stats](https://github-readme-stats.vercel.app/api?username=solly42&theme=onedark&show_icons=true)
