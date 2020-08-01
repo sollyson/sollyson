@@ -24,7 +24,12 @@
     <h3 align="center">
         Sites que desenvolvi:
     </h3>
-    <div align="center"><a href="https://sollyflix.vercel.app/">SollyFlix</a></div>
+    <div align="center">
+        <ul>
+            <li><a href="https://cristal.vercel.app/home">Cristal</a></li>
+            <li><a href="https://sollyflix.vercel.app/">SollyFlix</a></li>
+        </ul>
+    </div>
     <p align="center">
         <h3 align="center">
             Tecnologias & Ferraments utilizadas:
