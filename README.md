@@ -25,4 +25,4 @@
 </p>
 
 
-![solly42's github stats](https://github-readme-stats.vercel.app/api?username=solly42&theme=onedark&show_icons=true)
+![solly42's github stats](https://github-readme-stats.vercel.app/api?username=solly42&theme=monokai&show_icons=true)
