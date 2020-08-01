@@ -25,8 +25,8 @@
         Sites que desenvolvi:
     </h3>
     <div align="center">
-        <ul>
-            <li><a href="https://cristal.vercel.app/home">Cristal</a></li>
+        <ul style="list-style: none;">
+            <li style="list-style: none;"><a href="https://cristal.vercel.app/home">Cristal</a></li>
             <li><a href="https://sollyflix.vercel.app/">SollyFlix</a></li>
         </ul>
     </div>
