@@ -27,7 +27,7 @@
     <div align="center">
         <ul style="list-style: none;">
             <li style="list-style: none;"><a href="https://cristal.vercel.app/home">Cristal</a></li>
-            <li><a href="https://sollyflix.vercel.app/">SollyFlix</a></li>
+            <li><a href="https://pandemap.vercel.app/about">PandeMap</a></li>
         </ul>
     </div>
     <p align="center">
