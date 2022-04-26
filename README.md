@@ -42,6 +42,7 @@
             <code><img height="40" src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png"></code>
             <code><img height="40" src="https://avatars0.githubusercontent.com/u/317776?s=200&v=4"></code>
             <code><img height="40" src="https://avatars1.githubusercontent.com/u/2918581?s=200&v=4"></code>
+            <code><img height="40" src=" https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/512px-.NET_Core_Logo.svg.png?20210328084203"></code>
             <code><img height="40"
                     src="https://cdn4.iconfinder.com/data/icons/adobe-vicons/512/Photoshop-512.png"></code>
             <code><img height="40"
