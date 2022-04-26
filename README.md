@@ -36,7 +36,6 @@
         </h3>
         <div align="center"><code><img height="40"
                     src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-            <code><img height="40" src="https://image.flaticon.com/icons/svg/226/226777.svg"></code>
             <code><img height="40"
                     src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
             <code><img height="40" src="https://avatars0.githubusercontent.com/u/139426?s=200&v=4"></code>
@@ -52,6 +51,6 @@
 
 <p align="center">
     <a href="https://github.com/https://github.com/sollyson">
-        <img src="https://github-readme-stats.vercel.app/api?username=solly42&theme=monokai&show_icons=true" />
+        <img src="https://github-readme-stats.vercel.app/api?username=sollyson&theme=monokai&show_icons=true" />
     </a>
 </p>
